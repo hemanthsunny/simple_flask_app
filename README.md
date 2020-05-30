@@ -1,6 +1,6 @@
 #Useful commands:
-1. gcloud builds submit --tag gcr.io/<project-id>/<container-name>
-2. gcloud run deploy --image gcr.io/<project-id>/flask-fire
+1. gcloud builds submit --tag gcr.io/[<project-id>]/<container-name>
+2. gcloud run deploy --image gcr.io/[<project-id>]/flask-fire
 
 #For this project:
 3. gcloud builds submit --tag gcr.io/simple-flask-app-f86b5/flask-fire
