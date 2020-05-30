@@ -12,7 +12,7 @@
 
 #To update gcloud
 7. gcloud components update
-
+ 
 #References:
 1. Blog: https://medium.com/firebase-developers/hosting-flask-servers-on-firebase-from-scratch-c97cfb204579
 2. Video: https://youtu.be/t5EfITuFD9w
